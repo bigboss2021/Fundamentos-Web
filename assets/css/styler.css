@@ -25,8 +25,8 @@ body{
 
 #menu li{
 
- display: inline;
- padding: 20px;
+display: inline;
+padding: 20px;
 
 }
 
@@ -38,8 +38,8 @@ body{
 }
 
 #menu li a:hover {
-  
-     color:rgb(29, 58, 1)
+
+color:rgb(29, 58, 1)
 
 }
 
